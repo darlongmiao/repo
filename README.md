@@ -1,0 +1,4 @@
+repo
+====
+
+puppet config
